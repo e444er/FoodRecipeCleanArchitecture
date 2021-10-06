@@ -23,6 +23,6 @@ To build this project, you require:
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 *   [Navigation](https://github.com/topics/android-navigation-component)
 *   [Glide](https://github.com/bumptech/glide)
-*   [Viewbindingpropertydelegate]('https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
+*   [Viewbindingpropertydelegate](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
 *   [Retrofit](https://square.github.io/retrofit/)
 *   [Dagger Hilt](https://dagger.dev/hilt)
