@@ -21,6 +21,7 @@ To build this project, you require:
 ![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc1.png)
 ![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc2.png)
 ![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc3.png)
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc3.png" width="200" />
 
 ## Libraries
 *   [ViewBinding](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
