@@ -17,6 +17,9 @@ To build this project, you require:
 - Android Studio Artic Fox | 2020.3.1 Patch 2
 - Gradle 7.0.2
 
+### Screenshots
+![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc1.png) 
+
 ## Libraries
 *   [ViewBinding](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
 *   [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
