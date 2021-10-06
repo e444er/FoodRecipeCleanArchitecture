@@ -18,10 +18,11 @@ To build this project, you require:
 - Gradle 7.0.2
 
 ### Screenshots
-![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc1.png)
-![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc2.png)
-![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc3.png)
-<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc3.png" width="200" />
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/app/src/main/res/drawable/photo1.jpg" width="200" />
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/app/src/main/res/drawable/photo2.jpg" width="200" />
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/app/src/main/res/drawable/photo3.jpg" width="200" />
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/app/src/main/res/drawable/photo4.jpg" width="200" />
+<img src="https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/app/src/main/res/drawable/photo5.jpg" width="200" />
 
 ## Libraries
 *   [ViewBinding](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
