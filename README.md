@@ -1,42 +1,39 @@
 # FoodRecipeCleanArchitecture
 Clean Architecture
 
-![Android Build](https://github.com/Ezike/Baking-App-Kotlin/workflows/Android%20Build/badge.svg) [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)](https://kotlinlang.org/) [![MVVM ](https://img.shields.io/badge/Architecture-MVI-brightgreen)](http://hannesdorfmann.com/android/mosby3-mvi-1) [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
+![Android Build](https://github.com/Ezike/Baking-App-Kotlin/workflows/Android%20Build/badge.svg) [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)] [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
 
 
 ## Features
 * Kotlin Coroutines with Flow (State Flow)
-* Clean Architecture with MVI (Uni-directional data flow)
-* Jetpack Navigation for DFMs
-* Dynamic Feature Modules
+* Clean Architecture with MVVM 
+* Jetpack Navigation
+* UseCase
 * Video streaming with Exoplayer
 * Dagger Hilt
-* Kotlin Gradle DSL
+* Kotlin Gradle
 
 ## Prerequisite
 To build this project, you require:
-- Android Studio artic fox canary 6
-- Gradle 7.0
+- Android Studio Artic Fox | 2020.3.1 Patch 2
+- Gradle 7.0.2
 
 ## Libraries
-*   [FlowBinding](https://github.com/ReactiveCircus/FlowBinding)
-*   [Moshi](https://github.com/square/moshi)
+*   [ViewBinding]
 *   [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-*   [DFM navigation](https://developer.android.com/guide/navigation/navigation-dynamic)
-*   [Coil](https://github.com/coil-kt/coil)
-*   [ShimmerLayout](https://github.com/facebook/shimmer-android)
-*   [Exoplayer](https://github.com/google/ExoPlayer)
-*   [Truth](https://github.com/google/truth)
+*   [Navigation]
+*   [Glide]('com.github.bumptech.glide:glide:4.12.0')
+*   [Viewbindingpropertydelegate]('com.github.kirich1409:viewbindingpropertydelegate:1.4.7')
+*   [Retrofit]('com.squareup.retrofit2:retrofit:2.9.0')
 *   [Dagger Hilt](https://dagger.dev/hilt)
-*   [Kotlin Gradle DSL](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin)
 
 ### Libraries: ###
-- [RxJava2](https://github.com/ReactiveX/RxJava)
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-- [Dagger2](https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2)
+- [Coroutines](org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1)
+- [CoroutinesAndroid](org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1)
+- [Dagger Hilt](com.google.dagger:hilt-android:2.38.1)
 
 - [Retrofit2](https://github.com/square/retrofit)
-- [Android architecture components](https://developer.android.com/topic/libraries/architecture/index.html)
-- [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room.html)
+- [Glide](com.github.bumptech.glide:glide:4.12.0)
+- [Kirich Viewbindingpropertydelegate]('com.github.kirich1409:viewbindingpropertydelegate:1.4.7')
 
