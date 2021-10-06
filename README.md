@@ -8,7 +8,6 @@
 * Kotlin Coroutines with Flow (State Flow)
 * Jetpack Navigation
 * UseCase
-* Video streaming with Exoplayer
 * Dagger Hilt
 * Kotlin Gradle
 
