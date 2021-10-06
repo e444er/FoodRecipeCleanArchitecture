@@ -18,7 +18,9 @@ To build this project, you require:
 - Gradle 7.0.2
 
 ### Screenshots
-![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc1.png) 
+![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc1.png)
+![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc2.png)
+![Screenshot](https://github.com/e444er/FoodRecipeCleanArchitecture/blob/master/sc3.png)
 
 ## Libraries
 *   [ViewBinding](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
