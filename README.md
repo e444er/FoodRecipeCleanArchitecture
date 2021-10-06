@@ -1,12 +1,11 @@
 # FoodRecipeCleanArchitecture
-Clean Architecture
 
-![Android Build](https://github.com/Ezike/Baking-App-Kotlin/workflows/Android%20Build/badge.svg) [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)] [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
+![Android Build](https://github.com/Ezike/Baking-App-Kotlin/workflows/Android%20Build/badge.svg) [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue) [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
 
 
 ## Features
-* Kotlin Coroutines with Flow (State Flow)
 * Clean Architecture with MVVM 
+* Kotlin Coroutines with Flow (State Flow)
 * Jetpack Navigation
 * UseCase
 * Video streaming with Exoplayer
@@ -19,21 +18,11 @@ To build this project, you require:
 - Gradle 7.0.2
 
 ## Libraries
-*   [ViewBinding]
+*   [ViewBinding](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
 *   [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
-*   [Navigation]
-*   [Glide]('com.github.bumptech.glide:glide:4.12.0')
-*   [Viewbindingpropertydelegate]('com.github.kirich1409:viewbindingpropertydelegate:1.4.7')
-*   [Retrofit]('com.squareup.retrofit2:retrofit:2.9.0')
+*   [Navigation](https://github.com/topics/android-navigation-component)
+*   [Glide](https://github.com/bumptech/glide)
+*   [Viewbindingpropertydelegate]('https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
+*   [Retrofit](https://square.github.io/retrofit/)
 *   [Dagger Hilt](https://dagger.dev/hilt)
-
-### Libraries: ###
-- [Coroutines](org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1)
-- [CoroutinesAndroid](org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1)
-- [Dagger Hilt](com.google.dagger:hilt-android:2.38.1)
-
-- [Retrofit2](https://github.com/square/retrofit)
-- [Glide](com.github.bumptech.glide:glide:4.12.0)
-- [Kirich Viewbindingpropertydelegate]('com.github.kirich1409:viewbindingpropertydelegate:1.4.7')
-
